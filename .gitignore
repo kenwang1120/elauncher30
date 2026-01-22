@@ -4,6 +4,9 @@ node_modules
 # Build output
 dist
 
+# Claude Code local settings
+.claude
+
 # Editor directories and files
 .idea
 .vscode
